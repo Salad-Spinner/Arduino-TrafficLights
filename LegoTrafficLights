@@ -1,8 +1,8 @@
 /*
- 2.  * CombinedReceiver.cpp
- 3.  *
- 4.  * Demonstrates receiving NEC protocol IR codes with IRremote and controlling LEDs based on 
- 5.  * specific Apple protocol commands.
+  * CombinedReceiver.cpp
+  *
+  * Demonstrates receiving NEC protocol IR codes with IRremote and controlling LEDs based on 
+  * specific Apple protocol commands.
  6.  * This file is part of Arduino-IRremote https://github.com/Arduino-IRremote/Arduino-IRremote.
  7.  */
  8.  
